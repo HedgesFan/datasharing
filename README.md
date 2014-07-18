@@ -1,6 +1,9 @@
 How to share data with a statistician
 ===========
 
+(This was changed on my local machine, and pushed back up to my fork of
+jtleek's repo.)
+
 This is a guide for anyone who needs to share data with a statistician. The target audiences I have in mind are:
 
 * Scientific collaborators who need statisticians to analyze data for them
